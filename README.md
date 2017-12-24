@@ -12,4 +12,4 @@ What game? - Don't know
 
 Are you a good programmer? - No
 
-What's your favorite color? - Red
+Favorite color? - Red
