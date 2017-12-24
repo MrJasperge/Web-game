@@ -1,8 +1,15 @@
 # Web-game
 Game for Chrome web browser
 # Game
-I don't know which game yet
+The game is as follows. 
+
+...
+
+I have no idea
+
 # FAQ
 What game? - Don't know
+
 Are you a good programmer? - No
+
 What's your favorite color? - Red
