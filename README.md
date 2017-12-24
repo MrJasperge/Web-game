@@ -1,11 +1,11 @@
 # Web-game
 Game for Chrome web browser
 # Game
-The game is as follows. 
+The game goes as follows:
 
 ...
 
-I have no idea
+I have no idea either
 
 # FAQ
 What game? - Don't know
