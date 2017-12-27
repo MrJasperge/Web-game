@@ -1,6 +1,6 @@
 p {
   font-family: Arial;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 h1 {
@@ -11,4 +11,10 @@ h1 {
 h2 {
   font-family: Helvetica;
   color: DarkSlateGray;
+}
+
+.navigation {
+  font-weight: bold;
+  color: black;
+  font-family: serif;
 }
